@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPlaces</string>
+	<string name="address">Enter an address or a place</string>
+	<string name="search_addr">Search address or place</string>
+</resources>
